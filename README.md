@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/sfv2631az400/SFV2631ConsontoGit/_apis/build/status/SteveVoormolen.ContosoAir?branchName=master)](https://dev.azure.com/sfv2631az400/SFV2631ConsontoGit/_build/latest?definitionId=10&branchName=master)
 
 # Microsoft.Github CI Demo
 
